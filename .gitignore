@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.expo/
+.vercel/
+artifacts/
+.env
+.env.*
+!.env.example
+expo-env.d.ts
+*.tsbuildinfo
+*.log
+.DS_Store
+/ios/
+/android/
